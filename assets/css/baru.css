@@ -1,0 +1,26 @@
+.hero h1 span {
+  color: rgb(255, 153, 0) !important;
+}
+
+.hero .btn-get-started {
+  background: rgb(255, 153, 0);
+}
+
+.hero .btn-watch-video i {
+  color: rgb(255, 153, 0);
+}
+
+.navmenu li:hover > a,
+.navmenu .active,
+.navmenu .active:focus {
+  color: rgb(255, 153, 0) !important;
+}
+
+.scroll-top {
+  background-color: rgb(255, 153, 0);
+}
+
+.aboutpetnah {
+  color: rgb(255, 153, 0);
+  font-weight: 700;
+}
